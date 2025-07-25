@@ -18,15 +18,6 @@ I'm a builder, problem solver, and visual thinker based in Sri Lanka. Currently 
 - Currently working on automating video content creation with FFMPEG. It's something cool...
 ---
 
-### ⚡ Fun Facts
-
-- I was once electrocuted trying to stick my fingers to a power outlet (I was 3).
-- I was a freelance graphic designer and video editor.
-- I’ve helped discover an asteroid (really).  
-- I still believe the iPhone 5 was a design masterpiece.
-
----
-
 ### 🌍 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kethakav)

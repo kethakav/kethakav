@@ -10,7 +10,7 @@ I'm a builder, problem solver, and visual thinker based in Sri Lanka. Currently 
   > *React · Tauri · Rust · Fabric.js · GitHub Actions*
 
 - 💳 [**CardLink**](https://cardlink.live/) — Create dynamic, secure digital business cards. Features authentication, user roles, Pro upgrades, and LemonSqueezy integration.  
-  > *React · Supabase · Node.js · Tailwind CSS*
+  > *Vite · React · Supabase · Node.js · Tailwind CSS*
 
 - 📊 [**ScreenTimeForLife**](https://screentimeforlife.pages.dev/) — A simple page that shows how much of your life goes into screens, with exportable share cards.  
   > *React*

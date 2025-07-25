@@ -4,16 +4,6 @@ I'm a builder, problem solver, and visual thinker based in Sri Lanka. Currently 
 
 ---
 
-### 🚀 What I Do
-
-- 🛠 I build practical tools with aesthetic polish  
-- 🧠 I research deeply before I code  
-- 🤖 I use AI tools strategically — as an assistant, not autopilot  
-- 🎨 I believe beautiful UX/UI isn’t optional — it’s essential  
-- 🔐 I work at the intersection of security, usability, and speed  
-
----
-
 ### 🧩 Notable Projects
 
 - 🎛 [**Rainmeter Editor**](https://rainmetereditor.pages.dev/) — A full-featured GUI for editing Rainmeter skins. Includes auto-update, package export, layered canvas UI, and real-time preview for your rainmeter skins.  
